@@ -1,4 +1,4 @@
-### Welcome to Avito Chats Project
+### Welcome to Avito Chats Project (https://gist.github.com/FZambia/82b5b8d89c3005eff9ece3e01882c76f)
 To run the project, you need to have Docker and Docker Compose installed.
 Once Docker and Docker Compose is installed, run the following command:
 
